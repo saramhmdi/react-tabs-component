@@ -1,0 +1,10 @@
+div {
+  background-color: rgb(37, 80, 207);
+}
+h2 {
+  padding: 20px;
+}
+p {
+  min-height: 165px;
+  padding-left: 10px;
+}
